@@ -2,7 +2,7 @@
 
 Easel.js + Meteor
 
-A quick attempt at unifying Easel.js and Meteor.
+An attempt at making Easel.js work with Meteor in a Meteor way.
 
 Features : 
 
