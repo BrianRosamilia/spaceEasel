@@ -16,7 +16,9 @@ Features :
 
 ![Click and drag](http://i.imgur.com/FuEczzB.gif)
 
-###Click and Drag with a server side rule (max x of 200)
+The X and Y are persisted to MongoDB.
+
+###Click and Drag with a server side rule (max X of 200)
 
 Surprisingly smooth!
 
