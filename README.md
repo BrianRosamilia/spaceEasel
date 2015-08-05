@@ -16,7 +16,7 @@ Features :
 
 ![Click and drag](http://i.imgur.com/FuEczzB.gif)
 
-The X and Y are persisted to MongoDB.
+The X and Y are persisted to MongoDB and it's displaying the X coordinate.
 
 ###Click and Drag with a server side rule (max X of 200)
 
